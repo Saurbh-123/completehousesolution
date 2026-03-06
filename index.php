@@ -18,7 +18,7 @@
 
 </head>
 <body>
-    <!-- loader start  -->
+
 <!-- <div id="loader">
     <div class="house">
         <div class="roof"></div>
