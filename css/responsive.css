@@ -1,0 +1,19 @@
+@media (max-width: 720px) {
+    .cta-btn {
+        padding: 8px 20px;
+        font-size: 12px;
+    }
+}
+
+
+@media (max-width: 960px) {
+.header-middle nav{
+        display: none;
+    }
+}
+
+@media (max-width: 599px) {
+    .top-content span {
+        font-size: 12px;
+    }
+}
