@@ -118,22 +118,11 @@
 
  <!-- contact -->
 
- <section class="contact section_border">
-    <div class="container">
-        <div class="custom_heading">
-            <h2>Contact Us</h2>
-                <p>
-                Have questions about our products or want to share your culinary creations? We'd love to hear from you. Reach out to us and become part of the Awad family.
-            </p>
-        </div>
-        <div class="simple_line2">
-            <img src="images/headibng_line_art2.png" title="line" alt="line" />
-        </div>
-    </div>
-    <div class="container">
-        <div class="contact_wrap">
-            <div class="contact_form">
-                <form>
+ <section class="conatct_section">
+    <div class="container  conatect_section_shift">
+        <div class="contact_form">
+              <form>
+                <h1>Conatct Us</h1>
                     <div class="input_box">
                         <input type="text" name="text" required placeholder="Name" />
                     </div>
@@ -150,49 +139,16 @@
                         <button type="submit" class="custom_btn custom_btn2">Send</button>
                     </div>
                 </form>
-            </div>
-
-            <div class="contact_add">
-                <div class="cont_add_wrap">
-                    <div class="con_add_up">
-                        <span><img src="images/address_top.png" /></span>
-                        <h3>Awad Food Pvt. Ltd.</h3>
-                        <span><img src="images/address_bottom.png" /></span>
-                    </div>
-
-                    <div class="con_add_text">
-                        <h3>Our Address</h3>
-                        <div class="con_add_wrap">
-                            <div class="cont_add_inner">
-                                <div class="con_add_icon">
-                                    <img src="images/address_icon.png" title="Phone">
-                                </div>
-                                <div class="con_add_text_inner">
-                                    <p>Gwalior, India</p>
-                                </div>
-                            </div>
-                            <div class="cont_add_inner">
-                                <div class="con_add_icon">
-                                    <img src="images/call_icon.png" title="Phone">
-                                </div>
-                                <div class="con_add_text_inner">
-                                    <p><a href="tel:+919473 4444">(91) 9473 4444</a></p>
-                                </div>
-                            </div>
-                            <div class="cont_add_inner">
-                                <div class="con_add_icon">
-                                    <img src="images/email_icon.png" title="Phone">
-                                </div>
-                                <div class="con_add_text_inner">
-                                    <p><a href="mailto:info@example.com">awad@gmail.com</a></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
         </div>
+
+        <div class="conatct_form_details">
+            <h1>This is Heading</h1>
+            <p>Lorem ipsum dolor sit amet
+                 consectetur, adipisicing elit. Corporis explicabo delectus provident modi facilis, eligendi labore at corrupti dignissimos quisquam expedita 
+                odit. Delectus possimus et, facere soluta beatae dolorum doloremque.</p>
+        </div>
+
+
     </div>
 </section>
 
