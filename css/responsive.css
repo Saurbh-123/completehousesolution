@@ -13,7 +13,17 @@
 }
 
 @media (max-width: 599px) {
+
     .top-content span {
         font-size: 12px;
+    }
+
+    .conatect_section_shift {
+        flex-wrap: wrap;
+    }
+
+    .container.conatect_section_shift .contact_form,
+    .container.conatect_section_shift .conatct_form_details {
+        width: 92%;
     }
 }
